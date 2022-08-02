@@ -18,7 +18,8 @@ The model is trained using `train.csv` and evaluated on `test.csv`
 
 Details are as below
 
-|  | H-bonds per PA | CO nematic order | Flatness | RCC | RMSF
+|  | H-bonds per PA | CO nematic order | Flatness | RCC | RMSF |
+|---|---|---|---|---|---|
 | Train Set (high - low) | 2187 - 2142 | 2187 - 2141 | 2187 - 2141 | 2187 - 2142 | 2187 - 2141 |
 | Test Set (high - low) | 519 - 564 | 518 - 564 | 518 - 564 | 519 - 564 | 518 - 564 |
 | True Positive | 473 | 405 | 489 | 459 | 411 |
